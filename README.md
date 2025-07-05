@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=F5F5DC&fontColor=5A4637&text=YuHyun%27s%20Github&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Backend%20Engineer&descAlignY=70)
 <p align="center">
-  Studying...✏️<br>
+  Studying...✏️
+  
+  <br>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" />
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
   <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" alt="AWS Badge" />
