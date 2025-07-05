@@ -24,6 +24,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" alt="AWS Badge" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+</p>
 
 
 
