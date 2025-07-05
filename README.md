@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=YuHyun&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Backend%20Engineer&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=F5F5DC&fontColor=5A4637&text=YuHyun&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Backend%20Engineer&descAlignY=70)
+
 
 
 
