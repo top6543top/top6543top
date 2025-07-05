@@ -15,7 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ece6cc&height=300&section=header&text=YuHyun&fontSize=100" alt="Header" />
+  <img
+    src="https://capsule-render.vercel.app/api?\
+type=wave&\
+color=f5f5dc&\
+height=300&\
+section=header&\
+text=YuHyun&\
+fontSize=100&\
+fontColor=2F4F4F"
+    alt="Header"
+    width="100%" />
 </p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
