@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=F5F5DC&fontColor=5A4637&text=YuHyun%27s%20Github&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Backend%20Engineer&descAlignY=70)
 
-<h3 align="center">✏️Studying✏️</h3>
+<h3 align="center" style="color:#5A4637;">✏️Studying✏️</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" />
