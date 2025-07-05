@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ece6cc&height=300&section=header&text=YuHyun&fontSize=100" alt="Header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlignY=30&fontSize=30&textBg=true&desc=Use%20%2727textBg%2720to%20highlight%20text&descAlign=60&descAlignY=50"
+    alt="RECT Header"
+    width="100%" />
 </p>
+
 
 
 
