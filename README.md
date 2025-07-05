@@ -16,22 +16,10 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?\
-type=rect&\
-color=f5f5dc&\
-height=200&\
-text=YuHyun&\
-fontSize=80&\
-fontColor=2F4F4F&\
-fontAlignY=40&\       <!-- 타이틀을 위쪽(40%)으로 -->
-desc=Your%20Subtitle&\
-descSize=30&\
-descAlign=50&\          <!-- 서브타이틀은 가운데(50%) -->
-descAlignY=70"          <!-- 서브타이틀을 아래쪽(70%)으로 -->
-    alt="YuHyun Header"
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradientColor=f5f5dc,2F4F4F&text=%20%20RECT%20%20&fontAlignY=30&fontSize=30&textBg=false&desc=Use%20%2727textBg%2720to%20highlight%20text&descAlign=60&descAlignY=70"
+    alt="RECT Header"
     width="100%" />
 </p>
-
 
 
 
