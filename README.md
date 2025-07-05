@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradientColor=f5f5dc,2F4F4F&text=%20%20RECT%20%20&fontAlignY=30&fontSize=30&textBg=false&desc=Use%20%2727textBg%2720to%20highlight%20text&descAlign=60&descAlignY=70"
+    src="https://capsule-render.vercel.app/api?type=BE&color=gradient&gradientColor=f5f5dc,2F4F4F&text=Yuhyun&fontAlignY=30&fontSize=30&textBg=false&desc=Use%20%2727textBg%2720to%20highlight%20text&descAlign=60&descAlignY=70"
     alt="RECT Header"
     width="100%" />
 </p>
