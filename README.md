@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-YuHyun&nbsp;&nbsp;![BE](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20BE%20%20&fontAlignY=30&fontSize=30&textBg=true)
-
-
+<p align="center">
+  YuHyun&nbsp;&nbsp;<img alt="BE" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20BE%20%20&fontAlignY=30&fontSize=30&textBg=true" />
+</p>
 
 
 
