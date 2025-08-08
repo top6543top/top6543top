@@ -27,7 +27,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
 </p>
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
