@@ -27,3 +27,20 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
 </p>
+
+---
+
+## 📊 Solved.ac Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zynny)](https://solved.ac/profile/zynny)
+
+---
+
+## 🏆 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=top6543top&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top6543top&layout=compact&theme=tokyonight)
+
+---
