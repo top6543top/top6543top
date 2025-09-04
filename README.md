@@ -15,18 +15,13 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=F5F5DC&fontColor=5A4637&text=YuHyun%27s%20Github&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Backend%20Engineer&descAlignY=70)
 
-<h3 align="center" style="color:#5A4637;">✏️Studying✏️</h3>
+## 🛠️ Development Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" />
-  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge" />
-  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" alt="AWS Badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
-</p>
+| Category       | Skills |
+|----------------|--------|
+| **Language**   | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Backend**    | ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
