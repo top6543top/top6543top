@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=YuHyun%27s%20Github&fontSize=40&fontColor=ffffff&desc=Backend%20Engineer&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:FFB6C1,100:9370DB&height=180&section=header&text=YuHyun%27s%20Github&fontSize=40&fontColor=ffffff&desc=Backend%20Engineer&descAlignY=65&animation=fadeIn)
+
 
 ---
 
