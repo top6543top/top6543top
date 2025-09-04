@@ -1,19 +1,12 @@
 <!--
 **top6543top/top6543top** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=F5F5DC&fontColor=5A4637&text=YuHyun%27s%20Github&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Backend%20Engineer&descAlignY=70)
+
+---
 
 ## 🛠️ Development Stack
 
@@ -38,4 +31,4 @@ Here are some ideas to get you started:
 ## 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top6543top&layout=compact&theme=tokyonight)
 
----
+</div>
