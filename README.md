@@ -1,7 +1,3 @@
-<!--
-**top6543top/top6543top** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=F5F5DC&fontColor=5A4637&text=YuHyun%27s%20Github&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Backend%20Engineer&descAlignY=70)
@@ -18,17 +14,11 @@
 
 ---
 
-## 📊 Solved.ac Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zynny)](https://solved.ac/profile/zynny)
+## 📊 Stats
 
----
-
-## 🏆 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=top6543top&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top6543top&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zynny" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=top6543top&show_icons=true&theme=tokyonight" height="170"/>
+</div>
 
 </div>
